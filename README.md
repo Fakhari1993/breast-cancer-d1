@@ -25,5 +25,16 @@ Focus: **maximize malignant recall** while keeping strong AUC.
 ├─ figures/
 │  ├─ roc_curves.png
 │  └─ confusion_matrix.png
-├─ requirements.txt
 └─ README.md
+
+## 🗂️ Data Source
+UCI Machine Learning Repository — Breast Cancer Wisconsin (Diagnostic).  
+https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
+**ROC Curves (Test)**  
+![ROC](figures/roc_curves.png)
+
+**Confusion Matrix (Best Model)**  
+![CM](figures/confusion_matrix.png)
+
+
