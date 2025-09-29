@@ -21,7 +21,7 @@ Focus: **maximize malignant recall** while keeping strong AUC.
 ```
 .
 ├─ src/
-│  └─ Cancer.py
+│  └─ Cancer_project.py
 ├─ figures/
 │  ├─ roc_curves.png
 │  └─ confusion_matrix.png
