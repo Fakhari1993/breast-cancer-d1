@@ -20,9 +20,9 @@ Focus: **maximize malignant recall** while keeping strong AUC.
 ## 🧱 Project Structure
 ```
 .
-├─ src/
+├─ src
 │  └─ Cancer_project.py
-├─ figures/
+├─ figures
 │  ├─ roc_curves.png
 │  └─ confusion_matrix.png
 └─ README.md
